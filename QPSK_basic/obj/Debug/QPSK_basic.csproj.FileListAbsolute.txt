@@ -380,3 +380,15 @@ C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\obj\De
 C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
 C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\obj\Debug\QPSK_basic.exe
 C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 01_07_01\QPSK_basic 01_07_01\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 01_07_01\QPSK_basic 01_07_01\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 01_07_01\QPSK_basic 01_07_01\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 01_07_01\QPSK_basic 01_07_01\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 01_07_01\QPSK_basic 01_07_01\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 01_07_01\QPSK_basic 01_07_01\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 01_07_01\QPSK_basic 01_07_01\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 01_07_01\QPSK_basic 01_07_01\QPSK_basic\obj\Debug\Interop.MLApp.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 01_07_01\QPSK_basic 01_07_01\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 01_07_01\QPSK_basic 01_07_01\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 01_07_01\QPSK_basic 01_07_01\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 01_07_01\QPSK_basic 01_07_01\QPSK_basic\obj\Debug\QPSK_basic.pdb

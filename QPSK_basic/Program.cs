@@ -22,9 +22,9 @@ namespace QPSK_basic
 
             // S심볼 만들기
             int Symbol_num = 144;
-            int start_count = 10;
+            int start_count = 20;
             int SNR = 35;
-            int QAM = 4;
+            int QAM = 256;
 
             double num = Convert.ToDouble(Symbol_num);
             double[] Ser = new double[SNR]; // SER을 담는 변수
@@ -35,7 +35,7 @@ namespace QPSK_basic
             {
                 Complex[] ComArray_S = new Complex[Symbol_num];
                 Complex[] ComArray_Y = new Complex[Symbol_num];
-
+                
                 Console.WriteLine("Total Count : " + start);
 
                 // 심볼 S 객체 생성 ( 이때 채널이 생성됨 (곱해지지는 않음))
@@ -66,8 +66,7 @@ namespace QPSK_basic
                     Complex[] ComArray_R = new Complex[Symbol_num];
                     ComArray_R = S.AddNoise(ComArray_Y, Symbol_num, i); // Y = Hx + n
 
-                    
-                    
+                    /*
                     // y symbol + noise * hk
                     double[] Yreal = new double[Symbol_num];
                     double[] Yimag = new double[Symbol_num];
@@ -75,20 +74,21 @@ namespace QPSK_basic
                     Matrix symbol_y = new Matrix("symbol_y", Yreal, Yimag);
                     file.Write(symbol_y);
                     // symbol test end
-
+                    */
 
                     // 군집화
-                    QPSK_Kmeans y_kmeans = new QPSK_Kmeans(ComArray_R, 20, S.Hk);
+                    //QPSK_Kmeans y_kmeans = new QPSK_Kmeans(ComArray_R, 20, S.Hk);
                     //QAM16_Kmeans y_kmeans = new QAM16_Kmeans(ComArray_R, 20, S.Hk);
                     //QAM64_Kmeans y_kmeans = new QAM64_Kmeans(ComArray_R, 20, S.Hk);
-                    //QAM256_Kmeans y_kmeans = new QAM256_Kmeans(ComArray_R, 20, S.Hk);
+                    QAM256_Kmeans y_kmeans = new QAM256_Kmeans(ComArray_R, 20, S.Hk);
                     
                     // 채널 추정 객체 생성
                     Ch_Est est = new Ch_Est();
-                    est.Est(y_kmeans.init_center,S.Hk); // 채널 추정
+                    est.Est(y_kmeans.hk_center, S.Hk); // 채널 추정
                     ComArray_R = S.DividCh(ComArray_R, est.Est_ch); // 추정한 채널로 R 심볼을 나눈다.
                     // Console.WriteLine(i+ " : "  + S.Hk + " : " + est.Est_ch);
 
+                    /*
                     // kmeans 후 센터값
                     double[] rcenter = new double[QAM];
                     double[] icenter = new double[QAM];
@@ -102,9 +102,8 @@ namespace QPSK_basic
                     ComplexToDouble(ComArray_R, ref Rreal, ref Rimag);
                     Matrix symbol_r = new Matrix("symbol_r", Rreal, Rimag);
                     file.Write(symbol_r);
-                    // symbol test end
-                    
-                    
+                    // symbol test end                    
+                    */
                     
 
                     Demode nErr_y = new Demode(ComArray_R, QAM);
@@ -133,16 +132,15 @@ namespace QPSK_basic
                 Console.WriteLine("SER : " + Ser[q]);
                 Console.WriteLine("MSE : " + MSE[q]);
             }
+
             // ser, mse 생성
             Matrix ser = new Matrix("ser", Ser);
             Matrix mse = new Matrix("mse", MSE);
             file.Write(ser);
             file.Write(mse);
 
-            Console.WriteLine(mse);
-
-            // DisplayInExcel(Ser, MSE);
-            // Console.ReadKey();
+            DisplayInExcel(Ser, MSE);
+            Console.ReadKey();
         }
 
         
