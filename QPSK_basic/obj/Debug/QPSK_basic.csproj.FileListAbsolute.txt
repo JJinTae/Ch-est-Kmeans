@@ -1,0 +1,382 @@
+C:\Users\vkeh0\source\repos\QPSK_basic\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\Users\vkeh0\source\repos\QPSK_basic\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\Users\vkeh0\source\repos\QPSK_basic\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\Users\vkeh0\source\repos\QPSK_basic\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+C:\Users\vkeh0\source\repos\QPSK_basic\QPSK_basic\obj\Debug\QPSK_basic.csproj.CoreCompileInputs.cache
+C:\Users\vkeh0\source\repos\QPSK_basic\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\vkeh0\source\repos\QPSK_basic\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\Users\vkeh0\source\repos\QPSK_basic\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\Users\vkeh0\source\repos\QPSK_basic\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\Users\vkeh0\source\repos\QPSK_basic\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\Source_code\lab\QPSK_basic\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\Source_code\lab\QPSK_basic\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\Source_code\lab\QPSK_basic\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\Source_code\lab\QPSK_basic\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\Source_code\lab\QPSK_basic\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\Source_code\lab\QPSK_basic\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\Source_code\lab\QPSK_basic\QPSK_basic\obj\Debug\QPSK_basic.csproj.CoreCompileInputs.cache
+D:\Source_code\lab\QPSK_basic\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\Source_code\lab\QPSK_basic\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\Source_code\lab\QPSK_basic\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\KJT\CsharpKmeans\QPSK_basic 09_28\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\KJT\CsharpKmeans\QPSK_basic 09_28\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\KJT\CsharpKmeans\QPSK_basic 09_28\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\KJT\CsharpKmeans\QPSK_basic 09_28\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\KJT\CsharpKmeans\QPSK_basic 09_28\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\KJT\CsharpKmeans\QPSK_basic 09_28\QPSK_basic\obj\Debug\QPSK_basic.csprojResolveAssemblyReference.cache
+C:\KJT\CsharpKmeans\QPSK_basic 09_28\QPSK_basic\obj\Debug\QPSK_basic.csproj.CoreCompileInputs.cache
+C:\KJT\CsharpKmeans\QPSK_basic 09_28\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\KJT\CsharpKmeans\QPSK_basic 09_28\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\Source_code\lab\QPSK_basic 10_03\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\Source_code\lab\QPSK_basic 10_03\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\Source_code\lab\QPSK_basic 10_03\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\Source_code\lab\QPSK_basic 10_03\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\Source_code\lab\QPSK_basic 10_03\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\Source_code\lab\QPSK_basic 10_03\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\Source_code\lab\QPSK_basic 10_03\QPSK_basic\obj\Debug\QPSK_basic.csproj.CoreCompileInputs.cache
+D:\Source_code\lab\QPSK_basic 10_03\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\Source_code\lab\QPSK_basic 10_03\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\Source_code\lab\QPSK_basic 10_03\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\Source_code\lab\QPSK_basic 10_04\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\Source_code\lab\QPSK_basic 10_04\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\Source_code\lab\QPSK_basic 10_04\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\Source_code\lab\QPSK_basic 10_04\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\Source_code\lab\QPSK_basic 10_04\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\Source_code\lab\QPSK_basic 10_04\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\Source_code\lab\QPSK_basic 10_04\QPSK_basic\obj\Debug\QPSK_basic.csproj.CoreCompileInputs.cache
+D:\Source_code\lab\QPSK_basic 10_04\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\Source_code\lab\QPSK_basic 10_04\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\Source_code\lab\QPSK_basic 10_04\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\Source_code\lab\QPSK_basic 10_05\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\Source_code\lab\QPSK_basic 10_05\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\Source_code\lab\QPSK_basic 10_05\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\Source_code\lab\QPSK_basic 10_05\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\Source_code\lab\QPSK_basic 10_05\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\Source_code\lab\QPSK_basic 10_05\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\Source_code\lab\QPSK_basic 10_05\QPSK_basic\obj\Debug\QPSK_basic.csproj.CoreCompileInputs.cache
+D:\Source_code\lab\QPSK_basic 10_05\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\Source_code\lab\QPSK_basic 10_05\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\Source_code\lab\QPSK_basic 10_05\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_07\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_07\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_07\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_07\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_07\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_07\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_07\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_07\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_07\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_10\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_10\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_10\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_10\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_10\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_10\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_10\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_10\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_10\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_11\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_11\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_11\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_11\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_11\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_11\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_11\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_11\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_11\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_28\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_28\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_28\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_28\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_28\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_28\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_28\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_28\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 10_28\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_04\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_04\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_04\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_04\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_04\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_04\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_04\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_04\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_04\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\Users\user\Desktop\QPSK_basic 11_05\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\Users\user\Desktop\QPSK_basic 11_05\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\Users\user\Desktop\QPSK_basic 11_05\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\Users\user\Desktop\QPSK_basic 11_05\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\Users\user\Desktop\QPSK_basic 11_05\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\Users\user\Desktop\QPSK_basic 11_05\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+C:\Users\user\Desktop\QPSK_basic 11_05\QPSK_basic\obj\Debug\QPSK_basic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QPSK_basic 11_05\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+C:\Users\user\Desktop\QPSK_basic 11_05\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\user\Desktop\QPSK_basic 11_05\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_06\QPSK_basic 11_06\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_06\QPSK_basic 11_06\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_06\QPSK_basic 11_06\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_06\QPSK_basic 11_06\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_06\QPSK_basic 11_06\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_06\QPSK_basic 11_06\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_06\QPSK_basic 11_06\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_06\QPSK_basic 11_06\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_06\QPSK_basic 11_06\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic 11_06\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic 11_06\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic 11_06\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic 11_06\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic 11_06\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic 11_06\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic 11_06\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic 11_06\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic 11_06\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_11\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_13\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_13\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_13\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_13\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_13\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_13\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_13\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_13\QPSK_basic\obj\Debug\Interop.MLApp.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_13\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_13\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_13\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_13\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\obj\Debug\Interop.MLApp.dll
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\obj\Debug\QPSK_basic.csproj.CoreCompileInputs.cache
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_18\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_18\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_18\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_18\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_18\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_18\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_18\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_18\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_18\QPSK_basic\obj\Debug\Interop.MLApp.dll
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_18\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_18\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_18\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\QPSK_basic 11_18\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_20\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_20\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_20\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_20\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_20\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_20\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_20\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_20\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_20\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_20\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_20\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic 11_20\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic 11_20\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic 11_20\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic 11_20\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic 11_20\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic 11_20\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic 11_20\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic 11_20\QPSK_basic\obj\Debug\Interop.MLApp.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic 11_20\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic 11_20\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic 11_20\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic 11_20\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic\obj\Debug\Interop.MLApp.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_22\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\obj\Debug\Interop.MLApp.dll
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.csproj.CoreCompileInputs.cache
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\lab\CsharpKmeans\QPSK_basic 11_25\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\lab\CsharpKmeans\QPSK_basic 11_25\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\lab\CsharpKmeans\QPSK_basic 11_25\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\lab\CsharpKmeans\QPSK_basic 11_25\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+D:\lab\CsharpKmeans\QPSK_basic 11_25\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\lab\CsharpKmeans\QPSK_basic 11_25\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\lab\CsharpKmeans\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\lab\CsharpKmeans\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+D:\lab\CsharpKmeans\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\lab\CsharpKmeans\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\lab\CsharpKmeans\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_25\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_25\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_25\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_25\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_25\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_25\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_25\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\Lab\QPSK_basic 11_25\QPSK_basic\obj\Debug\Interop.MLApp.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_25_2\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_25_2\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_25_2\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_25_2\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_25_2\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_25_2\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_25_2\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_25_2\QPSK_basic\obj\Debug\Interop.MLApp.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_25_2\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_25_2\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_25_2\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_25_2\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\obj\Debug\Interop.MLApp.dll
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.CoreCompileInputs.cache
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_26_1\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_2\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_2\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_2\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_2\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_2\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_2\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_2\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_2\QPSK_basic\obj\Debug\Interop.MLApp.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_2\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_2\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_2\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_2\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_3\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_3\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_3\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_3\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_3\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_3\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_3\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_3\QPSK_basic\obj\Debug\Interop.MLApp.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_3\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_3\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_3\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_26_3\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_27_1\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_27_1\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_27_1\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_27_1\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_27_1\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_27_1\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_27_1\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_27_1\QPSK_basic\obj\Debug\Interop.MLApp.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_27_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_27_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_27_1\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_27_1\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\obj\Debug\Interop.MLApp.dll
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.CoreCompileInputs.cache
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\emfla\OneDrive\Desktop\QPSK_basic 11_28_1\QPSK_basic\obj\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_30_1\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_30_1\QPSK_basic\bin\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_30_1\QPSK_basic\bin\Debug\QPSK_basic.pdb
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_30_1\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_30_1\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_30_1\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_30_1\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_30_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_30_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_30_1\QPSK_basic\obj\Debug\QPSK_basic.exe
+D:\KJT\lab\CsharpKmeans\코드 간결화\QPSK_basic 11_30_1\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\QPSK_basic 12_02_1\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\Users\emfla\Desktop\QPSK_basic 12_02_1\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\Users\emfla\Desktop\QPSK_basic 12_02_1\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\QPSK_basic 12_02_1\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+C:\Users\emfla\Desktop\QPSK_basic 12_02_1\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\Users\emfla\Desktop\QPSK_basic 12_02_1\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\Users\emfla\Desktop\QPSK_basic 12_02_1\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+C:\Users\emfla\Desktop\QPSK_basic 12_02_1\QPSK_basic\obj\Debug\Interop.MLApp.dll
+C:\Users\emfla\Desktop\QPSK_basic 12_02_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+C:\Users\emfla\Desktop\QPSK_basic 12_02_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+C:\Users\emfla\Desktop\QPSK_basic 12_02_1\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\emfla\Desktop\QPSK_basic 12_02_1\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\Users\emfla\Desktop\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\Users\emfla\Desktop\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+C:\Users\emfla\Desktop\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\Users\emfla\Desktop\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\Users\emfla\Desktop\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+C:\Users\emfla\Desktop\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\obj\Debug\Interop.MLApp.dll
+C:\Users\emfla\Desktop\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+C:\Users\emfla\Desktop\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+C:\Users\emfla\Desktop\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\emfla\Desktop\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\obj\Debug\Interop.MLApp.dll
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_03_1\QPSK_basic\obj\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\bin\Debug\QPSK_basic.exe.config
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\bin\Debug\QPSK_basic.exe
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\bin\Debug\QPSK_basic.pdb
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\bin\Debug\Inventors.IO.Matlab.dll
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\bin\Debug\MathNet.Numerics.dll
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\bin\Debug\MathNet.Numerics.xml
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\obj\Debug\QPSK_basic.csprojAssemblyReference.cache
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\obj\Debug\Interop.MLApp.dll
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.ResolveComReference.cache
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\obj\Debug\QPSK_basic.csproj.CopyComplete
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\obj\Debug\QPSK_basic.exe
+C:\Users\emfla\Desktop\lab (2)\CsharpKmeans\QPSK_basic 12_08_1\QPSK_basic\obj\Debug\QPSK_basic.pdb
