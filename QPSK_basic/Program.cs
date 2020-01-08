@@ -21,10 +21,10 @@ namespace QPSK_basic
             MatlabFile file = new MatlabFile("symbol_ser_mse.mat", true);
 
             // S심볼 만들기
-            int Symbol_num = 144;
+            int Symbol_num = 36864;
             int start_count = 20;
-            int SNR = 35;
-            int QAM = 256;
+            int SNR = 21;
+            int QAM = 16;
 
             double num = Convert.ToDouble(Symbol_num);
             double[] Ser = new double[SNR]; // SER을 담는 변수
@@ -76,15 +76,30 @@ namespace QPSK_basic
                     // symbol test end
                     */
 
-                    // 군집화
-                    //QPSK_Kmeans y_kmeans = new QPSK_Kmeans(ComArray_R, 20, S.Hk);
-                    //QAM16_Kmeans y_kmeans = new QAM16_Kmeans(ComArray_R, 20, S.Hk);
-                    //QAM64_Kmeans y_kmeans = new QAM64_Kmeans(ComArray_R, 20, S.Hk);
-                    QAM256_Kmeans y_kmeans = new QAM256_Kmeans(ComArray_R, 20, S.Hk);
-                    
                     // 채널 추정 객체 생성
                     Ch_Est est = new Ch_Est();
-                    est.Est(y_kmeans.hk_center, S.Hk); // 채널 추정
+                    // 군집화
+                    if (QAM == 4)
+                    {
+                        QPSK_Kmeans y_kmeans = new QPSK_Kmeans(ComArray_R, 20, S.Hk);
+                        est.Est(y_kmeans.init_center, S.Hk); // 채널 추정
+                    }
+                    else if(QAM == 16)
+                    {
+                        QAM16_Kmeans y_kmeans = new QAM16_Kmeans(ComArray_R, 20, S.Hk);
+                        est.Est(y_kmeans.hk_center, S.Hk); // 채널 추정
+                    }
+                    else if(QAM == 64)
+                    {
+                        QAM64_Kmeans y_kmeans = new QAM64_Kmeans(ComArray_R, 20, S.Hk);
+                        est.Est(y_kmeans.hk_center, S.Hk); // 채널 추정
+                    }
+                    else
+                    {
+                        QAM256_Kmeans y_kmeans = new QAM256_Kmeans(ComArray_R, 20, S.Hk);
+                        est.Est(y_kmeans.hk_center, S.Hk); // 채널 추정
+                    }
+
                     ComArray_R = S.DividCh(ComArray_R, est.Est_ch); // 추정한 채널로 R 심볼을 나눈다.
                     // Console.WriteLine(i+ " : "  + S.Hk + " : " + est.Est_ch);
 

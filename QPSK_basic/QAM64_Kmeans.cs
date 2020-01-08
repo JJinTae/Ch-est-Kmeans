@@ -39,6 +39,7 @@ namespace QPSK_basic
 
             Make_init_center(y_kmeans.init_center);
             
+            /*
             //test
             MatlabFile file = new MatlabFile("16qam.mat", true);
 
@@ -172,6 +173,8 @@ namespace QPSK_basic
             file.Write(ncent);
             file.Write(ocent);
             file.Write(pcent);
+            // test
+            */
 
             Kmeans_64qam(y_kmeans.temp_Y, real_Y, cluster);
             
@@ -186,12 +189,6 @@ namespace QPSK_basic
                 int startpos = i * 4;
                 for (int j = 0; j < 4; j++)
                 {
-                    //temp_center[startpos + j] = new Complex(Math.Cos(pi[j]) + center[0, i], Math.Sin(pi[j]) + center[1, i]);
-                    //temp_center[startpos + j] = Complex.Multiply(temp_center[startpos + j], temp_hk);
-
-                    //last_center[0, startpos + j] = temp_center[startpos + j].Real;
-                    //last_center[1, startpos + j] = temp_center[startpos + j].Imaginary;
-
                     init_center[0, startpos + j] = Math.Cos(pi[j]) + center[0, i];
                     init_center[1, startpos + j] = Math.Sin(pi[j]) + center[1, i];
                 }

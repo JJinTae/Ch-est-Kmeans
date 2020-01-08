@@ -1,6 +1,6 @@
-Test
-Total-Count 20
-Kmeans-Count 20
+Total-Count : 20
+
+Symbol_num
 144
 288
 576
@@ -10,3 +10,12 @@ Kmeans-Count 20
 9216
 18432
 36864
+
+
+
+
+
+QPSK	1tap SNR ~ 20 
+16QAM	1tap SNR ~ 20
+64QAM	2tap SNR ~ 40
+256QAM	2tap SNR ~ 40
