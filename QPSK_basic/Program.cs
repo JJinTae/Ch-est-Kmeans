@@ -21,14 +21,14 @@ namespace QPSK_basic
             MatlabFile file = new MatlabFile("symbol_ser_mse.mat", true);
 
             // S심볼 만들기
-            int Symbol_num = 36864;
+            int Symbol_num = 144;
             int start_count = 20;
-            int SNR = 21;
-            int QAM = 16;
+            int SNR = 41;
+            int QAM = 256;
 
             double num = Convert.ToDouble(Symbol_num);
-            double[] Ser = new double[SNR]; // SER을 담는 변수
-            double[] MSE = new double[SNR]; // MSE을 담는 변수
+            double[] Ser = new double[21]; // SER을 담는 변수
+            double[] MSE = new double[21]; // MSE을 담는 변수
             double err = 0;
 
             for (int start = 0; start < start_count; start++)
@@ -60,8 +60,11 @@ namespace QPSK_basic
 
                 // 채널 입력
                 ComArray_Y = S.MultyCh(ComArray_S);
-                
-                for (int i = 0; i < SNR; i++) // SNR
+
+                // 2tap을 위한 index
+                int index = 0;
+
+                for (int i = 0; i < SNR; i+=2) // SNR
                 {
                     Complex[] ComArray_R = new Complex[Symbol_num];
                     ComArray_R = S.AddNoise(ComArray_Y, Symbol_num, i); // Y = Hx + n
@@ -134,12 +137,13 @@ namespace QPSK_basic
                             err++;
                         }
                     }
-                    Ser[i] += err;
-                    MSE[i] += est.MSE_result;
+                    Ser[index] += err;
+                    MSE[index] += est.MSE_result;
+                    index++;
                 }
             }
 
-            for (int q = 0; q < SNR; q++)
+            for (int q = 0; q < 21; q++)
             {
                 Ser[q] = Ser[q] / (Symbol_num * start_count);
                 MSE[q] = MSE[q] / start_count;
