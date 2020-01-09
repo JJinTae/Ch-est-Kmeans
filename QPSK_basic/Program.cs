@@ -97,10 +97,15 @@ namespace QPSK_basic
                         QAM64_Kmeans y_kmeans = new QAM64_Kmeans(ComArray_R, 20, S.Hk);
                         est.Est(y_kmeans.hk_center, S.Hk); // 채널 추정
                     }
-                    else
+                    else if(QAM == 256)
                     {
                         QAM256_Kmeans y_kmeans = new QAM256_Kmeans(ComArray_R, 20, S.Hk);
                         est.Est(y_kmeans.hk_center, S.Hk); // 채널 추정
+                    }
+                    else
+                    {
+                        Console.WriteLine("QAM 변수 오류 발생");
+                        return;
                     }
 
                     ComArray_R = S.DividCh(ComArray_R, est.Est_ch); // 추정한 채널로 R 심볼을 나눈다.

@@ -52,6 +52,9 @@ namespace QPSK_basic
             }
         }
 
+
+
+
         public void Demode_QPSK(Complex[] symbol)
         {
             for(int i = 0; i < symbol.Length; i++)
@@ -188,7 +191,7 @@ namespace QPSK_basic
                     data_real[i] = 11;
                 else if (y_real[i] > 12 / Mean && y_real[i] <= 14 / Mean)
                     data_real[i] = 13;
-                else
+                else if (y_real[i] > 14 / Mean)
                     data_real[i] = 15;
 
                 if (y_real[i] <= -14 / Mean)
@@ -205,7 +208,7 @@ namespace QPSK_basic
                     data_real[i] = -5;
                 else if (y_real[i] <= -2 / Mean && y_real[i] > -4 / Mean)
                     data_real[i] = -3;
-                else
+                else if (y_real[i] <= 0 && y_real[i] > -2 / Mean)
                     data_real[i] = -1;
 
 
@@ -224,7 +227,7 @@ namespace QPSK_basic
                     data_imag[i] = 11;
                 else if (y_imag[i] > 12 / Mean && y_imag[i] <= 14 / Mean)
                     data_imag[i] = 13;
-                else
+                else if (y_imag[i] > 14 / Mean)
                     data_imag[i] = 15;
 
                 if (y_imag[i] <= -14 / Mean)
@@ -241,14 +244,12 @@ namespace QPSK_basic
                     data_imag[i] = -5;
                 else if (y_imag[i] <= -2 / Mean && y_imag[i] > -4 / Mean)
                     data_imag[i] = -3;
-                else
+                else if (y_imag[i] <= 0 && y_imag[i] > -2 / Mean)
                     data_imag[i] = -1;
 
 
                 data_sum[i] = new Complex(data_real[i], data_imag[i]);
             }
         }
-
     }
 }
-

@@ -248,8 +248,8 @@ namespace QPSK_basic
                     }
                 }
             }
-            double[] Sreal = new double[64];
-            double[] Simag = new double[64];
+            // double[] Sreal = new double[64];
+            // double[] Simag = new double[64];
 
             // 11_25 추가부분 - 채널 추정을 위한 센터 생성
             for (int i = 0; i < 4; i++)
