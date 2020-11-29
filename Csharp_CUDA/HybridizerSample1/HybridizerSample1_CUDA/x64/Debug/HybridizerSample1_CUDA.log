@@ -1,0 +1,302 @@
+﻿  HYBRIDIZER -- Input dll have changed, generating
+  Build satellite full path: C:\Program Files\Altimesh\Hybridizer Essentials\bin\Hybridizer.VSIntegration.BuildSatellite.exe
+  Hybridizer binary full path: C:\Program Files\Altimesh\Hybridizer Essentials\bin\Hybridizer.exe
+  Satellite working directory: C:\Users\user\Desktop\최종\HybridizerSample1\HybridizerSample1\HybridizerSample1_CUDA\hybridizer-generated-sources
+  Builtins: C:\Program Files\Altimesh\Hybridizer Essentials\include\hybridizer.cuda.builtins
+  Hybridizer out: [INFO] : entering BuildSatellite program 
+  Hybridizer out: [INFO] : Loaded assembly from C:\Users\user\Desktop\최종\HybridizerSample1\HybridizerSample1\HybridizerSample1\bin\x64\Debug\HybridizerSample1.exe 
+  Hybridizer out: AssemblyResolve: Trying C:\Users\user\Desktop\최종\HybridizerSample1\HybridizerSample1\HybridizerSample1\bin\x64\Debug\Hybridizer.Runtime.CUDAImports.dll 
+  Hybridizer out: [WARNING] : EntryPoint attribute with empty or null name for method <Run> in type <HybridizerSample1.Program>, using default symbols instead 
+  Hybridizer out: [INFO] : Found type <HybridizerSample1.Program> with <1> methods 
+  Hybridizer out: [WARNING] : EntryPoint attribute with empty or null name for method <Run> in type <HybridizerSample1.QPSK_Kmeans>, using default symbols instead 
+  Hybridizer out: [INFO] : Found type <HybridizerSample1.QPSK_Kmeans> with <1> methods 
+  Hybridizer out: [INFO] : Done searching assembly for hybridizer directives 
+  Hybridizer out: Hybridizer full path: C:\Program Files\Altimesh\Hybridizer Essentials\bin\Hybridizer.exe 
+  Hybridizer out: [INFO] : found type Altimesh.Hybridizer.Application.Program 
+  Hybridizer out: [INFO] : found method Void Main(System.String[]) 
+  Hybridizer out: [INFO] : Hybridizer Essentials (c) Altimesh 2011-2018 - 1.2.10616 
+  Hybridizer out: [INFO] : Hybridizer license:?VKEH0322@NAVER.COM for evaluation purposes 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails> in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=32 in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=64 in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: Not Found Hybridizer.Runtime.CUDAImports, Version=1.2.10616.0, Culture=neutral, PublicKeyToken=2e60b65856451e38 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails> in Hybridizer.Runtime.CUDAImports, Version=1.2.10616.0, Culture=neutral, PublicKeyToken=2e60b65856451e38 and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=6 in Hybridizer.Runtime.CUDAImports, Version=1.2.10616.0, Culture=neutral, PublicKeyToken=2e60b65856451e38 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=72 in Hybridizer.Runtime.CUDAImports, Version=1.2.10616.0, Culture=neutral, PublicKeyToken=2e60b65856451e38 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails> in Hybridizer.Runtime.CUDAImports, Version=1.2.10616.0, Culture=neutral, PublicKeyToken=2e60b65856451e38 and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=6 in Hybridizer.Runtime.CUDAImports, Version=1.2.10616.0, Culture=neutral, PublicKeyToken=2e60b65856451e38 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=72 in Hybridizer.Runtime.CUDAImports, Version=1.2.10616.0, Culture=neutral, PublicKeyToken=2e60b65856451e38 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found FXAssembly in System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found ThisAssembly in System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found AssemblyRef in System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails> in System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=128 in System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found __DynamicallyInvokableAttribute in System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: Not Found MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails> in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=20 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=24 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=32 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=40 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=48 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=64 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=72 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=88 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=120 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=128 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=256 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=1440 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=4096 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails> in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=20 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=24 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=32 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=40 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=48 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=64 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=72 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=88 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=120 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=128 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=256 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=1440 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=4096 in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found FXAssembly in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found ThisAssembly in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found AssemblyRef in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found Microsoft.Win32.UnsafeNativeMethods in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found Microsoft.Win32.SafeHandles.SafeFileMappingHandle in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found Microsoft.Win32.SafeHandles.SafeProcessHandle in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found Microsoft.Win32.SafeHandles.SafeThreadHandle in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.AppContextDefaultValues in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.ThrowHelper in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.ExceptionArgument in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.ExceptionResource in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.SR in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Security.Cryptography.X509Certificates.X509Utils in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails> in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=6 in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=10 in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=14 in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=16 in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=20 in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=32 in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=44 in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=64 in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=128 in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=256 in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=1024 in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found __DynamicallyInvokableAttribute in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found Interop in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found FXAssembly in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found ThisAssembly in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found AssemblyRef in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found Microsoft.Win32.UnsafeNativeMethods in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found Microsoft.Win32.SafeLibraryHandle in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.LocalAppContextSwitches in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.AppContextDefaultValues in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.LocalAppContext in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.SRDescriptionAttribute in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.SRCategoryAttribute in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.SR in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Collections.Generic.BitHelper in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.IO.__Error in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Security.Cryptography.CapiNative in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Security.Cryptography.SafeLocalAllocHandle in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Security.Cryptography.X509Certificates.SafeCertContextHandle in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails> in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.LocalAppContext+TryGetSwitchDelegate in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Security.Cryptography.CapiNative+AlgorithmClass in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Security.Cryptography.CapiNative+AlgorithmType in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Security.Cryptography.CapiNative+AlgorithmSubId in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Security.Cryptography.CapiNative+CryptAcquireContextFlags in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Security.Cryptography.CapiNative+ErrorCode in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Security.Cryptography.CapiNative+ProviderNames in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Security.Cryptography.CapiNative+ProviderType in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found System.Security.Cryptography.CapiNative+UnsafeNativeMethods in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=16 in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found __DynamicallyInvokableAttribute in System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found FXAssembly in Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found ThisAssembly in Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found AssemblyRef in Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails> in Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=12 in Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and was already in System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=16 in Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=20 in Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=24 in Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=32 in Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and was already in HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=104 in Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and was already in MathNet.Numerics, Version=4.9.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [WARN] : Conflicting assembly: found <PrivateImplementationDetails>+__StaticArrayInitTypeSize=256 in Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [WARN] : Conflicting assembly: found __DynamicallyInvokableAttribute in Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a and was already in mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [INFO] : Processing assembly C:\Users\user\Desktop\최종\HybridizerSample1\HybridizerSample1\HybridizerSample1\bin\x64\Debug\HybridizerSample1.exe 
+  Hybridizer out: [WARN] : Using default builtins 
+  Hybridizer out: [INFO] : Loaded built-in configuration from C:\Program Files\Altimesh\Hybridizer Essentials\include\hybridizer.cuda.builtins 
+  Hybridizer out: [INFO] : Processing type HybridizerSample1.Program 
+  Hybridizer out: [INFO] : Reading for method Void Run(Int32, Int32[], Int32[]) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void <Run>b__0(Int32) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Processing type HybridizerSample1.QPSK_Kmeans 
+  Hybridizer out: [INFO] : Reading for method Void Run(Int32, Double[], System.Numerics.Complex[], Double, Double) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void <Run>b__0(Int32) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Double get_Real() from assembly System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [INFO] : Reading for method Double get_Imaginary() from assembly System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [INFO] : Registering methods 
+  Hybridizer out: [INFO] : Reading for method Void <Run>b__0(Int32) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void <Run>b__0(Int32) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void <Run>b__0(Int32) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void Run(Int32, Int32[], Int32[]) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void Run(Int32, Int32[], Int32[]) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void Run(Int32, Int32[], Int32[]) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void .ctor() from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : No symbols found for Void .ctor() 
+  Hybridizer out: [INFO] : Reading for method Void .ctor() from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : No symbols found for Void .ctor() 
+  Hybridizer out: [INFO] : Reading for method System.Threading.Tasks.ParallelLoopResult For(Int32, Int32, System.Action`1[System.Int32]) from assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [INFO] : No symbols found for System.Threading.Tasks.ParallelLoopResult For(Int32, Int32, System.Action`1[System.Int32]) 
+  Hybridizer out: [INFO] : Reading for method Double get_Real() from assembly System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [INFO] : Reading for method Double get_Real() from assembly System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [INFO] : Reading for method Double get_Real() from assembly System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [INFO] : Reading for method Double get_Imaginary() from assembly System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [INFO] : Reading for method Double get_Imaginary() from assembly System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [INFO] : Reading for method Double get_Imaginary() from assembly System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [INFO] : Reading for method Void <Run>b__0(Int32) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void <Run>b__0(Int32) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void <Run>b__0(Int32) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void Run(Int32, Double[], System.Numerics.Complex[], Double, Double) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void Run(Int32, Double[], System.Numerics.Complex[], Double, Double) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void Run(Int32, Double[], System.Numerics.Complex[], Double, Double) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void .ctor() from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : No symbols found for Void .ctor() 
+  Hybridizer out: [INFO] : Reading for method Void .ctor() from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : No symbols found for Void .ctor() 
+  Hybridizer out: [INFO] : Flavor CUDA has 9 methods 
+  Hybridizer out: [INFO] : Reading for method Void <Run>b__0(Int32) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void Run(Int32, Int32[], Int32[]) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void .ctor() from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : No symbols found for Void .ctor() 
+  Hybridizer out: [INFO] : Reading for method Double get_Real() from assembly System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [INFO] : Reading for method Double get_Imaginary() from assembly System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: [INFO] : Reading for method Void <Run>b__0(Int32) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void Run(Int32, Double[], System.Numerics.Complex[], Double, Double) from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Reading for method Void .ctor() from assembly HybridizerSample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+  Hybridizer out: [INFO] : No symbols found for Void .ctor() 
+  Hybridizer out: [INFO] : Flavor CUDA has 9 methods 
+  Hybridizer out: [INFO] : Listing types found for flavor <CUDA> 
+  Hybridizer out: [INFO] : found type <System.Object> used by :  
+  Hybridizer out: [INFO] :              <HybridizerSample1.Program>  
+  Hybridizer out: [INFO] :              <HybridizerSample1.Program+<>c__DisplayClass0_0>  
+  Hybridizer out: [INFO] :              <System.Threading.Tasks.Parallel>  
+  Hybridizer out: [INFO] :              <System.ValueType>  
+  Hybridizer out: [INFO] :              <HybridizerSample1.QPSK_Kmeans>  
+  Hybridizer out: [INFO] :              <HybridizerSample1.QPSK_Kmeans+<>c__DisplayClass0_0>  
+  Hybridizer out: [INFO] : found type <HybridizerSample1.Program> used by :  
+  Hybridizer out: [INFO] :              <HybridizerSample1.Program+<>c__DisplayClass0_0>  
+  Hybridizer out: [INFO] : found type <System.Int32[]> used by :  
+  Hybridizer out: [INFO] :              <HybridizerSample1.Program+<>c__DisplayClass0_0>  
+  Hybridizer out: [INFO] :              <HybridizerSample1.QPSK_Kmeans>  
+  Hybridizer out: [INFO] : found type <System.ValueType> used by :  
+  Hybridizer out: [INFO] :              <System.Threading.Tasks.ParallelLoopResult>  
+  Hybridizer out: [INFO] :              <System.Numerics.Complex>  
+  Hybridizer out: [INFO] : found type <System.Boolean> used by :  
+  Hybridizer out: [INFO] :              <System.Threading.Tasks.ParallelLoopResult>  
+  Hybridizer out: [INFO] : found type <System.Byte> used by :  
+  Hybridizer out: [INFO] :              <System.Threading.Tasks.ParallelLoopResult>  
+  Hybridizer out: [INFO] : found type <System.Nullable`1[[System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]> used by :  
+  Hybridizer out: [INFO] :              <System.Threading.Tasks.ParallelLoopResult>  
+  Hybridizer out: [INFO] : found type <System.IEquatable`1[[System.Numerics.Complex, System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]> used by :  
+  Hybridizer out: [INFO] :              <System.Numerics.Complex>  
+  Hybridizer out: [INFO] : found type <System.IFormattable> used by :  
+  Hybridizer out: [INFO] :              <System.Numerics.Complex>  
+  Hybridizer out: [INFO] : found type <System.Double> used by :  
+  Hybridizer out: [INFO] :              <System.Numerics.Complex>  
+  Hybridizer out: [INFO] :              <HybridizerSample1.QPSK_Kmeans+<>c__DisplayClass0_0>  
+  Hybridizer out: [INFO] : found type <System.IEquatable`1> used by :  
+  Hybridizer out: [INFO] :              <System.IEquatable`1[[System.Numerics.Complex, System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]>  
+  Hybridizer out: [INFO] : found type <System.Numerics.Complex> used by :  
+  Hybridizer out: [INFO] :              <System.IEquatable`1[[System.Numerics.Complex, System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]>  
+  Hybridizer out: [INFO] : found type <System.Numerics.Complex[]> used by :  
+  Hybridizer out: [INFO] :              <HybridizerSample1.QPSK_Kmeans>  
+  Hybridizer out: [INFO] :              <HybridizerSample1.QPSK_Kmeans+<>c__DisplayClass0_0>  
+  Hybridizer out: [INFO] : found type <System.Double[,]> used by :  
+  Hybridizer out: [INFO] :              <HybridizerSample1.QPSK_Kmeans>  
+  Hybridizer out: [INFO] : found type <System.Numerics.Complex[,]> used by :  
+  Hybridizer out: [INFO] :              <HybridizerSample1.QPSK_Kmeans>  
+  Hybridizer out: [INFO] : found type <HybridizerSample1.QPSK_Kmeans> used by :  
+  Hybridizer out: [INFO] :              <HybridizerSample1.QPSK_Kmeans+<>c__DisplayClass0_0>  
+  Hybridizer out: [INFO] : found type <System.Double[]> used by :  
+  Hybridizer out: [INFO] :              <HybridizerSample1.QPSK_Kmeans+<>c__DisplayClass0_0>  
+  Hybridizer out: [INFO] : Done listing types found for flavor <CUDA> 
+  Hybridizer out: Not Found Altimesh.Hybridizer.Application.resources, Version=1.2.10616.0, Culture=ko-KR, PublicKeyToken=null 
+  Hybridizer out: Not Found Altimesh.Hybridizer.Application.resources, Version=1.2.10616.0, Culture=ko-KR, PublicKeyToken=null 
+  Hybridizer out: Not Found Altimesh.Hybridizer.Application.resources, Version=1.2.10616.0, Culture=ko, PublicKeyToken=null 
+  Hybridizer out: Not Found Altimesh.Hybridizer.Application.resources, Version=1.2.10616.0, Culture=ko, PublicKeyToken=null 
+  Hybridizer out: Not Found mscorlib.XmlSerializers, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 
+  Hybridizer out: Not Found Transcoder.Disassembly.resources, Version=1.0.0.0, Culture=ko-KR, PublicKeyToken=null 
+  Hybridizer out: Not Found Transcoder.Disassembly.resources, Version=1.0.0.0, Culture=ko-KR, PublicKeyToken=null 
+  Hybridizer out: Not Found Transcoder.Disassembly.resources, Version=1.0.0.0, Culture=ko, PublicKeyToken=null 
+  Hybridizer out: Not Found Transcoder.Disassembly.resources, Version=1.0.0.0, Culture=ko, PublicKeyToken=null 
+C:\Users\user\Desktop\최종\HybridizerSample1\HybridizerSample1\HybridizerSample1_CUDA\#unknown : Hybridizer warning 0X8002: Non blittable value type HybridizerSample1.Program+<>c__DisplayClass0_0 may have poor marshalling performance 
+C:\Users\user\Desktop\최종\HybridizerSample1\HybridizerSample1\HybridizerSample1_CUDA\#unknown : Hybridizer warning 0X8002: Non blittable value type System.Threading.Tasks.ParallelLoopResult may have poor marshalling performance 
+C:\Users\user\Desktop\최종\HybridizerSample1\HybridizerSample1\HybridizerSample1_CUDA\#unknown : Hybridizer warning 0X8002: Non blittable value type HybridizerSample1.QPSK_Kmeans+<>c__DisplayClass0_0 may have poor marshalling performance 
+  Hybridizer out: Not Found Altimesh.Hybridizer.Application.resources, Version=1.2.10616.0, Culture=ko-KR, PublicKeyToken=null 
+  Hybridizer out: Not Found Altimesh.Hybridizer.Application.resources, Version=1.2.10616.0, Culture=ko-KR, PublicKeyToken=null 
+  Hybridizer out: Not Found Altimesh.Hybridizer.Application.resources, Version=1.2.10616.0, Culture=ko, PublicKeyToken=null 
+  Hybridizer out: Not Found Altimesh.Hybridizer.Application.resources, Version=1.2.10616.0, Culture=ko, PublicKeyToken=null 
+  Hybridizer out: [INFO] : Fini Void Main(System.String[]) 
+  Hybridizer out: [INFO] : using gpu-architecture = --gpu-architecture=compute_61 
+  Hybridizer out: [DONE] 
+  Compiling CUDA source file hybridizer-generated-sources\hybridizer.wrappers.cu...
+  
+  C:\Users\user\Desktop\최종\HybridizerSample1\HybridizerSample1\HybridizerSample1_CUDA>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\nvcc.exe" -gencode=arch=compute_30,code=\"sm_30,compute_30\" --use-local-env --cl-version 2015 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64" -x cu  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_WINDLL -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -o x64\Debug\hybridizer.wrappers.cu.obj "C:\Users\user\Desktop\최종\HybridizerSample1\HybridizerSample1\HybridizerSample1_CUDA\hybridizer-generated-sources\hybridizer.wrappers.cu" 
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(838): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(1772): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(2628): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(3477): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(4417): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(5319): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(6229): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(7104): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(7914): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt/device_functions.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt/device_functions.h(776): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt/device_functions.h(1636): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\device_double_functions.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\sm_20_intrinsics.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\sm_20_intrinsics.h(925): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(838): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(1772): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(2628): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(3477): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(4417): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(5319): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(6229): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(7104): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(7914): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt/device_functions.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt/device_functions.h(776): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt/device_functions.h(1636): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\device_double_functions.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\sm_20_intrinsics.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\sm_20_intrinsics.h(925): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  hybridizer.wrappers.cu
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(838): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(1772): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(2628): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(3477): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(4417): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(5319): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(6229): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(7104): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\nvidia gpu computing toolkit\cuda\v9.0\include\crt\math_functions.h(7914): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  hybridizer.generated.cpp
+     C:\Users\user\Desktop\최종\HybridizerSample1\x64\Debug\HybridizerSample1_CUDA.lib 라이브러리 및 C:\Users\user\Desktop\최종\HybridizerSample1\x64\Debug\HybridizerSample1_CUDA.exp 개체를 생성하고 있습니다.
+  HybridizerSample1_CUDA.vcxproj -> C:\Users\user\Desktop\최종\HybridizerSample1\x64\Debug\HybridizerSample1_CUDA.dll
+  HybridizerSample1_CUDA.vcxproj -> C:\Users\user\Desktop\최종\HybridizerSample1\x64\Debug\HybridizerSample1_CUDA.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart*.dll" "C:\Users\user\Desktop\최종\HybridizerSample1\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart32_90.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart64_90.dll
+          2개 파일이 복사되었습니다.
+  copy "C:\Program Files\Altimesh\Hybridizer Essentials\bin\hybridizer.basic.runtime.dll" "C:\Users\user\Desktop\최종\HybridizerSample1\x64\Debug\"
+          1개 파일이 복사되었습니다.
