@@ -1,8 +1,10 @@
 # GPU를 이용한 순차적 K-means 군집화
 
 > 본 프로젝트는 [GPU를 이용한 K-means 군집화 기반 채널추정 연산속도 개선](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09346734) 논문을 소개하는 [사이트](http://13.124.195.121/blog/)의 서버(AWS) 중단을 대비하여 작성하였습니다. 문제가 있을시 바로 삭제하겠습니다.
-
-
+<br>
+Python Project : https://github.com/JJinTae/Kmeans_Clustering_Python
+<br>
+<br>
 
 순차적 K-평균 군집화(sequential K-means Clustering, SKC) 기법을 이용하여 파일럿 신호 전송 없이 데이터 신호만으로 16QAM 이상의 고차 변조 신호에 대한 채널 추정 및 성능을 확인했다.
 <br><br>
